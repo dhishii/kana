@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Mohanad developer/Mix Letters (Word Games)/Scenes/Main.unity
+    guid: 4de293ff3e06f4640a23f9fb456f2558
+  - enabled: 1
+    path: Assets/Mohanad developer/Mix Letters (Word Games)/Scenes/Map.unity
+    guid: 5e104bb0c02d047499a312ef47181c7f
+  - enabled: 1
+    path: Assets/Mohanad developer/Mix Letters (Word Games)/Scenes/finsh.unity
+    guid: cd35e561410914a9fb3774f8dd9d8cdb
+  - enabled: 1
+    path: Assets/Mohanad developer/Mix Letters (Word Games)/Scenes/Game3.unity
+    guid: 1b92cb894570d4f8790cf1eb6d88feda
   m_configObjects: {}
