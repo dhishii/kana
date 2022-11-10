@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b897c8482ea4437d8d37b59c543bb37, type: 3}
+  m_Name: SurferSettings
+  m_EditorClassIdentifier: 
+  _states:
+    keys:
+    - 3b861ef5-7c9e-4790-b325-8d4b77505518
+    - 6fe27ba4-2383-432b-8c71-9e5ac088b5ec
+    - 355ed0a6-4101-41a2-a000-f197782591fd
+    - 8481b34c-f805-493b-b349-7c5333731bb4
+    - 1dcd4286-1c24-49d7-bc22-203d22ac3249
+    - d8e8392a-111c-4670-9084-697ffe4fb256
+    - ed80e361-498b-45af-9029-7105ad237454
+    - bf67bb8f-3d1c-473b-a964-0ba7d384624f
+    - 3033c225-b1e4-4418-987a-3e9e29694c9c
+    - 97c17c8e-6abf-4157-99cb-65ee15abaa47
+    - bd4116be-694b-4e01-9ad0-6b357b5cea89
+    - f66d8850-b893-4b1f-93e9-280b5a0d37ba
+    - a98488b0-fd57-4f27-b01d-448faff3b75d
+    - 49a75d00-043f-4624-95fc-72438ecefbb7
+    - 4ee2621b-5455-44f0-adf0-025e9ceae4aa
+    - 10dae275-f9e8-4390-96bf-b16ee9eff8cd
+    - 5ef9628f-f1bf-40fb-8664-8d30c2ff8eee
+    - f6b53694-0361-41f7-8b44-7929edebb456
+    - e29f4f0d-b100-4e6e-94a8-78fd4da79483
+    - 8abdfa16-5dc5-4ae9-b393-c47395568f06
+    - d756fe97-72da-45cf-b5f2-4777ee2f956a
+    - 9eb9b6b3-5f09-4d0b-a628-6663ad9e4ab4
+    - d2ac606f-d673-45df-8d5d-d8e8c58fab65
+    - e208317c-d144-4ed3-8dff-28b9fd02276d
+    - 8a020e3d-111e-4278-93ee-a04da972cb14
+    - 2e7d1645-d9fe-43b5-8f71-9630e1f517f4
+    - b99e917f-0b4f-4a4e-bf45-ddf0df9e61cd
+    - 5fbf4388-3a52-479d-ba9e-0140540bf223
+    - e89b9840-5892-4859-a0a9-89020151eaa4
+    - c9d027ee-0266-4dfd-b677-ca08c7f4e413
+    - bc2577f8-5f70-4660-b430-e870d4e56004
+    - ae94e6e9-09f2-4cd3-8bf6-ac83266d40ea
+    - 80ba594e-b276-4a49-bff2-8610b80b1703
+    - 27f0560c-b84a-4e89-8aa5-c08dae58632b
+    - 697f8b17-9dcc-450c-baff-9d526b8bc638
+    - 7b5e088c-adfb-43ff-8f74-5002479a7971
+    - d607b0d4-1a87-4511-ab7d-89875536add2
+    - b20641c5-3295-4865-8a9c-4ddbbd048459
+    - 0e5f302c-403f-4eef-9766-fbefd24254fa
+    - 0191f8f6-61dd-47d8-8e28-3a4f1f21f1cf
+    - b7094704-f29a-4594-b72e-232a65bd9525
+    - 5017c915-b67f-426d-b20a-996c47267afa
+    - 873d1a6f-e8d5-4c03-8668-963d9d517956
+    - 2af84cce-9451-4a18-aa05-945423611d2e
+    - 73b7e860-1b1e-44fc-92a0-f2a9edb7e994
+    - f00a9db5-e1f0-4f66-8571-b1e46dcc3ad4
+    - a74ac3b6-40a9-4da5-873e-e2e5be31a847
+    - 0fa9c75f-37e5-487f-a1da-45cd128affbb
+    - 498605f8-1626-45c8-8d8c-141255fbe5ee
+    - eaf3d806-f913-46d5-9817-993d219232bb
+    - 3b2658f0-3df7-42f7-bd92-32d2649a8b12
+    - 76b91e63-850f-4ffc-a1c6-04aac12e1d26
+    - 1b63ad77-d610-40a8-966a-76aebc246ce0
+    - 7921abae-dbe8-49dc-847e-f57cfcc56dcb
+    - 996535a1-e3a6-4846-b750-a1f516985e4a
+    - f7876fac-0ee9-42e7-9edc-a3c9ce6551ad
+    - bc5e2f81-b8cd-4bcf-8dc1-d2f10b61c3be
+    - 6badaa44-04b8-45bd-a51c-50d6b7b12ead
+    - 6f12d956-78d7-4a03-9cea-154bd4e05995
+    - 76f3670a-bbfd-4170-b72c-447d64812f96
+    - 4367da36-037b-497d-962b-b9c18338c158
+    - 6689c69d-9b8b-4d69-9ee8-39c8a315e93e
+    - 16927a49-13cf-4dfe-bde2-b78e100b6f6b
+    - 379d7db3-07ae-44f4-adff-07b9721f6a23
+    - 40b7efe7-db4c-487e-a343-c87c33c9fe19
+    - 865def24-beba-4ef1-9bcd-d552e1d1386f
+    - 0557cfbc-be26-42b2-b586-be317211f080
+    - 74426192-8f72-47c8-8b48-6883e245d15d
+    - 6ec62d24-8abe-4f0e-970f-64a4a16cbb03
+    - ad786cc2-2cbc-4fce-a20d-cc0be89d47c5
+    - 976120fe-b111-4261-bf05-5223c718fb47
+    - bd3cc472-0d96-49af-bf6a-aa5246ed5ef9
+    - cc4452e1-d38b-4626-b3ad-5bfd34b09cc7
+    - ccf70ad0-3562-42f5-a52f-560ca60cfc56
+    - a53b8f4d-5a27-402a-91cd-80e21f857137
+    - 282eb0c7-ef70-4af6-b205-18007e8bb6e6
+    - ec2fc92e-78f1-47fc-855d-9c698d11a8cd
+    - be0c0ff9-d859-4f4b-b264-69ad7865bb5b
+    - 11a6fa6c-2a88-4c43-ab00-ad09c8076a63
+    - 06e9a0ad-36fa-49c6-800b-450be54cdee6
+    values:
+    - Splash
+    - Menu
+    - SideMenu
+    - Logo
+    - Loading
+    - LoadingText
+    - Overlay
+    - HUD
+    - Profile
+    - Map
+    - Friends
+    - Matchmaking
+    - Settings
+    - Clan
+    - Battle
+    - Match
+    - QuickMatch
+    - Invite
+    - Upload
+    - Download
+    - Share
+    - Nickname
+    - Login
+    - Avatar
+    - Notification
+    - Internet
+    - Error
+    - Warning
+    - Prize
+    - GameOver
+    - WinScreen
+    - LoseScreen
+    - Controls
+    - Help
+    - Message
+    - Info
+    - Instructions
+    - Tutorial
+    - Tutorial1
+    - Tutorial2
+    - Tutorial3
+    - Tutorial4
+    - Tutorial5
+    - Step1
+    - Step2
+    - Step3
+    - Step4
+    - Step5
+    - Step6
+    - Step7
+    - Step8
+    - Step9
+    - Step10
+    - DailyReward
+    - Waiting
+    - Leaderboard
+    - Characters
+    - Shop
+    - Showcase
+    - Collection
+    - Weapons
+    - Chat
+    - Story
+    - Languages
+    - BetaInfo
+    - Privacy
+    - Announcement
+    - News
+    - Pre-Match
+    - Welcome
+    - Countdown
+    - Customization
+    - Finish
+    - Preview
+    - Levels
+    - Intro
+    - Outro
+    - Selection
+    - Deletion
+    - Confirm
+  _scenes:
+    keys: []
+    values: []
+  _events:
+    keys:
+    - 388a7949-6690-4752-946c-c32c636bb9ed
+    - 564424f5-c792-42f0-9e79-21ea5833abfc
+    values:
+    - MyCustomEvent
+    - OnPlayFabLogin
+  _tags: []
+  _layers: []
+  _buildVersions:
+    keys: 
+    values: []
+  _doubleClickDelay: 0.15
+  _themes:
+    keys: []
+    values: []
+  _selectedThemeGUID: 
+  _inputIcons:
+    keys: 
+    values: []
