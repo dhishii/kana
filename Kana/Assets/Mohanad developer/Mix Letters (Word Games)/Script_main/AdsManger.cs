@@ -5,9 +5,9 @@ using UnityEngine;
 using GoogleMobileAds.Api;
 using System;
 using UnityEngine.SceneManagement;
+    using toolspace;
 
-
-public class AdsManger : MonoBehaviour
+    public class AdsManger : MonoBehaviour
 {
     public static AdsManger instance;
 
@@ -203,17 +203,17 @@ public class AdsManger : MonoBehaviour
         string ActiveSceneName = SceneManager.GetActiveScene().name;
         if (ActiveSceneName == "Game1")
         {
-            FindObjectOfType<Manger1>().help(10);
+            //FindObjectOfType<Manger1>().help(10);
         }
 
         else if (ActiveSceneName == "Game3")
         {
-            FindObjectOfType<Manger3>().showHint();
+            //FindObjectOfType<Manger3>().showHint();
 
         }
         else if (ActiveSceneName == "Game4")
         {
-            FindObjectOfType<Manger4>().showChar();
+            //FindObjectOfType<Manger4>().showChar();
 
         }
 
