@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Mohanad developer/Mix Letters (Word Games)/Scenes/Splash.unity
+    guid: cfd396d09fc6a425191af40861d820e1
   - enabled: 1
     path: Assets/Mohanad developer/Mix Letters (Word Games)/Scenes/Main.unity
     guid: 4de293ff3e06f4640a23f9fb456f2558

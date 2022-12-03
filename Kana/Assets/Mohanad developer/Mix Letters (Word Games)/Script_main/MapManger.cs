@@ -32,16 +32,16 @@ namespace mapspace
                 if (start_count < step)
                 {
                     step_btn.lock_img.SetActive(false);
-                    step_btn.background.color = mainspace.Manger_base.instance.green;
+                    //step_btn.background.color = mainspace.Manger_base.instance.green;
                     step_btn.id.gameObject.SetActive(true);
-                    step_btn.id.color = Color.white;
+                    //step_btn.id.color = Color.white;
                 }
 
 
                 if (start_count == step)
                 {
                     step_btn.lock_img.SetActive(false);
-                    step_btn.background.color = Color.white;
+                    //step_btn.background.color = Color.white;
                     step_btn.id.gameObject.SetActive(true);
 
                 }
